@@ -17,7 +17,7 @@ compatible Ethernet shields.
 pins 5 to 9 as outputs (LEDs).
 TRIGGER_PIN  3
 ECHO_PIN     2
-5 works as the output of sound sensor.
+.5 works as the output of sound sensor.
 
 
 
