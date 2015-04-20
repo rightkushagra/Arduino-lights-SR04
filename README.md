@@ -1,6 +1,6 @@
 # Arduino-lights-SR04
 
-For details visit - www.kushagrasharma.com
+For details visit - www.kushagrasharma.com/p/automatic.htm
 
 Arduino web server displays Distance from SR04,
 and controls 4 outputs,
