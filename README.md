@@ -1,5 +1,6 @@
 # Arduino-lights-SR04
 
+For details visit - www.kushagrasharma.com
 
 Arduino web server displays Distance from SR04,
 and controls 4 outputs,
@@ -17,3 +18,6 @@ pins 5 to 9 as outputs (LEDs).
 TRIGGER_PIN  3
 ECHO_PIN     2
 5 works as the output of sound sensor.
+
+
+
